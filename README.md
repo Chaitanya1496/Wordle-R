@@ -1,2 +1,2 @@
 # Wordle-R
-The amazing wordle written in R-programming language for fun.
+The amazing Wordle! game written in R-programming language for fun.
